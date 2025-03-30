@@ -10,36 +10,36 @@ This code provides a versatile toolkit for automating Monad dapps tasks, featuri
 
 ## Support the Dapps' Monad projects
 1. Rubics: https://testnet.rubic.exchange/
-    ➖ Swap
-    ➖ Claim Faucet 
+    - Swap
+    - Claim Faucet 
 2. Izumi: https://alpha.izumi.finance/trade/swap
-    ➖ Swap
-    ➖ Add Liquidity 
-    ➖ Farm
-    ➖ Done
+    - Swap
+    - Add Liquidity 
+    - Farm
+    - Done
 3. Beanswap: https://swap.bean.exchange/
 4. Magma: https://www.magmastaking.xyz/
-    ➖ Staking MON
-    ➖ Done
+    - Staking MON
+    - Done
 5. Apriori: https://stake.apr.io/
-    ➖ Claim Faucet
-    ➖ Staking 0.2 MON
-    ➖ Withdraw 25% After 5 Days
-    ➖ Done
+    - Claim Faucet
+    - Staking 0.2 MON
+    - Withdraw 25% After 5 Days
+    - Done
 6. Monorail: https://monorail.xyz/
     ➖ Swap MON > Tokens
     ➖ Swap Every Week
     ➖ Done
 7. Ambient: https://monad.ambient.finance/
-    ➖ Swap MON > USDC > WETH > etc
-    ➖ Use Trade Feature 
-    ➖ Add Liquidity Pool
-    ➖ Done
+    - Swap MON > USDC > WETH > etc
+    - Use Trade Feature 
+    - Add Liquidity Pool
+    - Done
 8. Deploy Contract 
 9. Kintsu: https://kintsu.xyz/staking
 10. Shmonad: https://shmonad.xyz
-    ➖ Stake/Redem $MON
-    ➖ Commit/Uncommit $MON
+    - Stake/Redem $MON
+    - Commit/Uncommit $MON
 11. Octoswap: https://octo.exchange/
     - Faucet, swap, add liquidity
 
